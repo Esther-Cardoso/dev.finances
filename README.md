@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<!-- <img src="./imc-img.jpg"> -->
+<img src="./dev.finances.png"> 
 </p>
 
 <p align="center">
